@@ -1,10 +1,10 @@
 This project aims to analyze survey data to determine which factors influence a driver's decision to accept coupons for restaurants, bars, or coffee shops along their route.
 
 **Jupyter Notebook can be found at:**
-[https://github.com/sraghav2000/customer_coupon_acceptance/cusomer_coupon_acceptance.ipynb]
+[https://github.com/sraghav2000/customer_coupon_acceptance/blob/main/customer_coupon_acceptance.ipynb]
 
 **Data set Used can be found at:** 
-[https://github.com/sraghav2000/customer_coupon_acceptance/coupons.csv]
+[https://github.com/sraghav2000/customer_coupon_acceptance/blob/main/coupons.csv]
 
 **Dataset analysis:**
 
